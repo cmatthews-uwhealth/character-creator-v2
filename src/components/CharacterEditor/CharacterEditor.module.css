@@ -30,3 +30,11 @@
 .controlColumn {
   width: 50%;
 }
+
+.perspectiveBackground {
+  position: fixed;
+  bottom: 0;
+  height: 40%;
+  width: 100%;
+  background-color: hsl(195deg, 20%, 86%);
+}
